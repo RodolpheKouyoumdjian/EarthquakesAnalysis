@@ -1,2 +1,0 @@
-** Copy paste the following lines in terminal **
-pip3 install SpeechRecognition
